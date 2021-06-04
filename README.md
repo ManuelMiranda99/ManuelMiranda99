@@ -93,27 +93,15 @@
 
 ## Github Stats
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=manuelmiranda99&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=manuelmiranda99&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)][readmetrophy]
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelmiranda99&count_private=true&show_icons=true&theme=dracula" />
-</a>
+[![Manuel Miranda's WakaTime Stats](https://github-readme-stats.vercel.app/api?username=manuelmiranda99&count_private=true&show_icons=true&theme=dracula)][readmestats]
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelmiranda99&layout=compact&langs_count=6&theme=dracula" />
-</a>
+[![Manuel Miranda's WakaTime Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelmiranda99&layout=compact&langs_count=6&theme=dracula)][readmestats]
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelmiranda99&theme=dracula" />
-</a>
+[![Manuel Miranda's WakaTime Stats](https://github-readme-streak-stats.herokuapp.com/?user=manuelmiranda99&theme=dracula)][readmestreak]
 
-<!--
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=manuelmiranda99&layout=compact" />
-</a>
--->
+<!--[![Manuel Miranda's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=manuelmiranda99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [github]: https://github.com/ManuelMiranda99
 [spotify]: https://open.spotify.com/user/manolomiranda99
@@ -121,3 +109,6 @@
 [stackoverflow]: https://es.stackoverflow.com/users/232611
 [twitter]: https://twitter.com/miranda_manuu
 [gmail]: mailto:manuel.miranda.99@gmail.com
+[readmetrophy]: https://github.com/ryo-ma/github-profile-trophy
+[readmestats]: https://github.com/anuraghazra/github-readme-stats
+[readmestreak]: https://github.com/DenverCoder1/github-readme-streak-stats
