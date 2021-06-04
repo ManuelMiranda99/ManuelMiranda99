@@ -1,6 +1,6 @@
 <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" alt="0/">
 
-### Hi there, I'm Manuel
+# Hi there, I'm Manuel
 
 ## I'm a Science and Systems engineering student from Guatemala
 
@@ -22,19 +22,19 @@
 
 - 🎬 My favorite movie is Interstellar 🚀
 
-### Listening To 🎧
+## Listening To 🎧
 
 [![Spotify](https://novatorem-manuelmiranda99.vercel.app/api/spotify)][spotify]
 
 ---
 
-### Connect with me
+## Connect with me
 
 [<img alt="ManuelMiranda99 Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img alt="ManuelMiranda99 StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow] [<img alt="ManuelMiranda99 Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img alt="ManuelMiranda99 Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
-### Languages and Tools
+## Languages and Tools
 
-#### Languages
+### Languages
 
 <p>
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -53,7 +53,7 @@
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
-#### Tools
+### Tools
 
 <p>
     <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -62,7 +62,7 @@
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-#### Databases
+### Databases
 
 <p>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -72,7 +72,7 @@
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-#### Frameworks and Libraries
+### Frameworks and Libraries
 
 <p>
     <img alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
@@ -82,7 +82,7 @@
     <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
 </p>
 
-#### Extra
+### Extra
 
 <p>
     <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
@@ -91,17 +91,29 @@
 
 ---
 
-### Github Stats
+## Github Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manuelmiranda99&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)][readmetrophy]
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=manuelmiranda99&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</a>
 
-[![Manuel Miranda's WakaTime Stats](https://github-readme-stats.vercel.app/api?username=manuelmiranda99&count_private=true&show_icons=true&theme=dracula)][readmestats]
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelmiranda99&count_private=true&show_icons=true&theme=dracula" />
+</a>
 
-[![Manuel Miranda's WakaTime Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelmiranda99&layout=compact&langs_count=6&theme=dracula)][readmestats]
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelmiranda99&layout=compact&langs_count=6&theme=dracula" />
+</a>
 
-[![Manuel Miranda's WakaTime Stats](https://github-readme-streak-stats.herokuapp.com/?user=manuelmiranda99&theme=dracula)][readmestreak]
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelmiranda99&theme=dracula" />
+</a>
 
-<!--[![Manuel Miranda's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=manuelmiranda99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=manuelmiranda99&layout=compact" />
+</a>
+-->
 
 [github]: https://github.com/ManuelMiranda99
 [spotify]: https://open.spotify.com/user/manolomiranda99
@@ -109,6 +121,3 @@
 [stackoverflow]: https://es.stackoverflow.com/users/232611
 [twitter]: https://twitter.com/miranda_manuu
 [gmail]: mailto:manuel.miranda.99@gmail.com
-[readmetrophy]: https://github.com/ryo-ma/github-profile-trophy
-[readmestats]: https://github.com/anuraghazra/github-readme-stats
-[readmestreak]: https://github.com/DenverCoder1/github-readme-streak-stats
