@@ -18,9 +18,9 @@
 
 - 🥅 2021 Goals: Learn new Technologies
 
-- ⚡ Fun fact: I love to watch anime, my favorite series is Steins;Gate.
+- ⚡ Fun fact: I love to watch anime, my favorite series is **Steins;Gate.**
 
-- 🎬 My favorite movie is Interstellar 🚀
+- 🎬 My favorite movie is **Interstellar 🚀.**
 
 ## Listening To 🎧
 
