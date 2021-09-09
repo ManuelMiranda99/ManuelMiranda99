@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a **Data Structures Page.**
 
-- 🌱 I’m currently learning **Big Data.**
+- 🌱 I’m currently learning **Data Analysis.**
 
 - 👨‍💻 All of my projects are available **[Here!][github].**
 
