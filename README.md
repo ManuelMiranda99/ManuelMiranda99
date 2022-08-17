@@ -109,7 +109,7 @@
 [linkedin]: https://www.linkedin.com/in/amanuelma/
 [stackoverflow]: https://es.stackoverflow.com/users/232611
 [twitter]: https://twitter.com/miranda_manuu
-[gmail]: mailto:manuel.miranda.99@gmail.com
+[gmail]: mailto:a.manuel.miranda.99@gmail.com
 [readmetrophy]: https://github.com/ryo-ma/github-profile-trophy
 [readmestats]: https://github.com/anuraghazra/github-readme-stats
 [readmestreak]: https://github.com/DenverCoder1/github-readme-streak-stats
